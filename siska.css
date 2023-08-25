@@ -2,3 +2,9 @@
     color: #000000;
     background: #ff0000;
 }
+.card {
+    box-shadow: 1 4px 8px 0 rgb(0, 255, 13);
+  transition: 0.9s;
+  width: 500px;
+ height: 200px;
+}
