@@ -1,4 +1,5 @@
 .color {
+<<<<<<< HEAD
     color: #000000;
     background: #ff0000;
 }
@@ -7,4 +8,8 @@
   transition: 0.9s;
   width: 500px;
  height: 200px;
+=======
+    color: #ff0000;
+    background: #000000;
+>>>>>>> homeworkbranch
 }
