@@ -1,0 +1,54 @@
+.cardcontent {
+	font-weight: 100;
+	margin-left: 250px;
+}
+
+.hint {
+	font-style: italic;
+    font-size: x-large;
+    font-weight: 800;
+}
+a {
+	color: #f8796b;
+	text-decoration: none;
+}
+.content {
+	width: 660px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px 20px;
+}
+body {
+	margin: 0;
+	font-family: arial, sans-serif;
+	font-size: 16px;
+}
+
+p {
+	line-height: 1.5;
+}
+.img {
+	border: 1px solid #ddd;
+	width: 180px;
+	flex: none;
+  }
+  .card {
+	width: 800px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 15px;
+	
+	box-shadow: 1px 1px 7px 1px rgba(187, 177, 177, .65);
+	border: 1px solid #eee;
+	border-radius: 3px;
+  }
+ .cardname {
+	margin-top: 0;
+	font-size: 40px;
+ }
+ .zag {
+	font-style: italic;
+    font-size: x-large;
+    font-weight: 800;
+ }
